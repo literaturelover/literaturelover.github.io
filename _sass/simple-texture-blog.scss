@@ -97,9 +97,9 @@ textarea {
     font-family: $fonts-body;
 }
 
-footer_content {
-    font-family: 'Noto Sans KR', sans-serif;
-    font-weight: bold;
+.footer-font {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: bold;  /* bold 효과 추가 */
 }
 
 @import 'simple-texture/blog/overlay';
