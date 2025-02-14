@@ -5,7 +5,7 @@
                 <div class="about">
                     <h4><a href="{{ site.paths.home | relative_url }}">{{ site.data.i18n[site.lang].about }}</a></h4>
                     {% if site.blog.footer_content %}
-                        <p>{{ site.blog.footer_content }}</p>
+                        <span class="footer-font">{{ site.blog.footer_content }}</span>
                     {% endif %}
                     {{ site.data.i18n[site.lang].theme_info }}
                 </div>
