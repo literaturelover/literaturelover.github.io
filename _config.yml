@@ -35,9 +35,9 @@ author:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: 
     - name: instagram
-      url: https://www.instagram.com/seonhaemin__/
+      url: 
     - name: linkedin
       url:
     - name: stackoverflow
@@ -46,7 +46,7 @@ author:
       url: 
     - name: vk
       url:
-home:
+home: # 접속 후 메인 페이지 수정
   section1: <h1>떠네닷컴</h1>
   section2: <h2>No Literature, No Life</h2>
   section3: <div class="social-links"><a class="ico-instagram btn" href="https://www.instagram.com/seonhaemin__/" title="Instagram"></a></div>
