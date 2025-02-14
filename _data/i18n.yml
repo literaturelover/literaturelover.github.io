@@ -3,6 +3,7 @@ en: &en
   articles: 'Articles'
   back_to_top: 'Back to Top'
   categories: 'Categories'
+  About: 'About'
   close: 'Close'
   enter_blog: 'Enter Site'
   last_updated: 'Last updated'
