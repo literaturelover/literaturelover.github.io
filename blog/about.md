@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: profile
 title: "민선혜, 지구에서 가장 귀여운 평론가"
 description: "2025년 2월 14일"
 categories: [Letter]
